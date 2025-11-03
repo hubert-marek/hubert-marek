@@ -16,10 +16,6 @@
 
 **[AI Consensus](https://aiconsensus.org)** – Working with my friends at Minerva on making AI integration in education less chaotic. We've got funding from Prince Harry and Meghan Markle, created our university AI policy, and organized the largest responsible AI hackathon in South Korea. 
 
-## Background
-
-I study Computational Sciences (Math + CS, RBF Scholar) at Minerva—which means I've lived in Poland, US, Korea, Taiwan, and Argentina. Did a stint at Wordware.ai learning how great companies work. Previously worked on AI systems for Samsung Heavy Industries in Korea and spent time with early-stage founders at S20 Fund. Started my first company at 16, raised some money, failed. Learned a lot. 
-
 ## You can reach me via
 
 📫 **hubert@uni.minerva.edu** • 💼 [LinkedIn](https://linkedin.com/in/hubertpysklo)
