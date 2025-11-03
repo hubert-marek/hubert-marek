@@ -16,7 +16,7 @@
 
 **[AI Consensus](https://aiconsensus.org)** – Working with my friends at Minerva on making AI integration in education less chaotic. We've got funding from Prince Harry and Meghan Markle, created our university AI policy, and organized the largest responsible AI hackathon in South Korea. 
 
-## You can reach me via
+---
 
 📫 **hubert@uni.minerva.edu** • 💼 [LinkedIn](https://linkedin.com/in/hubertpysklo)
 
