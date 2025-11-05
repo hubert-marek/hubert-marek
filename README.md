@@ -10,13 +10,13 @@
 
 ## What I've built
 
-**[Agent Diff](https://github.com/hubert-marek/agent-diff)** – Started as a weekend project for the YC AI agent's hackathon to evaluate AI agents on Slack and Linear, now a full tool to train and evaluate agents on their APIs.
+**[Agent Diff](https://github.com/hubert-marek/agent-diff)** – Started as a weekend project for the YC AI agent's hackathon to evaluate AI agents on Slack and Linear. Now a full tool to train and evaluate LLMs on the use of API's.
 
-**[Econverse](https://econverse.org)** – Co-founded this with friends to run hackathons and help students start their first companies. A few names like Microsoft and ABB liked it enough to back us, and now we're apparently the largest student startup incubator in Central & Eastern Europe. 
+**[Econverse](https://econverse.org)** – Co-founded this to run hackathons and help students start their first companies. A few names like Microsoft and ABB liked it enough to back us, and now we're apparently the largest student startup incubator in Central & Eastern Europe. 
 
 **[AI Consensus](https://aiconsensus.org)** – Working with my friends at Minerva on making AI integration in education less chaotic. We've got funding from Prince Harry and Meghan Markle, created our university AI policy, and organized the largest responsible AI hackathon in South Korea. 
 
 ---
 
-📫 **hubert@uni.minerva.edu** • 💼 [LinkedIn](https://linkedin.com/in/hubertpysklo)
+📫 **hubert@uni.minerva.edu** • 💼 **[LinkedIn](https://linkedin.com/in/hubertpysklo)**
 
