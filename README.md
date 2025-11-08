@@ -14,7 +14,7 @@
 
 **[Econverse](https://econverse.org)** – Co-founded this to run hackathons and help students start their first companies. A few names like Microsoft and ABB liked it enough to back us, and now we're apparently the largest student startup incubator in Central & Eastern Europe. 
 
-**[AI Consensus](https://aiconsensus.org)** – Working with my friends at Minerva on making AI integration in education less chaotic. We've got funding from Prince Harry and Meghan Markle, created our university AI policy, and organized the largest responsible AI hackathon in South Korea. 
+**[AI Consensus](https://aiconsensus.org)** – Working with my friends at Minerva on making AI integration in education less chaotic. We've got funding from Prince Harry and Meghan Markle, created our university AI policy and organized a few responsible AI hackatons.
 
 ---
 
