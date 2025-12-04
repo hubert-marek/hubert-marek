@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">CS Student @ Minerva University</h3>
 
 <p align="center">
   <a href="https://pypi.org/project/agent-diff/"><img src="https://img.shields.io/pypi/dm/agent-diff.svg" alt="PyPI downloads"/></a>
